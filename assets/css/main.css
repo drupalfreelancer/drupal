@@ -519,6 +519,12 @@
 			letter-spacing: -0.035em;
 			line-height: 1em;
 		}
+#header h2 {
+			font-size: 3em;
+			letter-spacing: -0.035em;
+			line-height: 1em;
+                        padding-top:20px;
+		}
 
 		#header p {
 			font-size: 1.25em;
